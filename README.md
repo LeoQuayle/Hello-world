@@ -1,3 +1,3 @@
-# Hello-world2
+# Hello-world
 Beginners startout
 I am just learning Jscript
